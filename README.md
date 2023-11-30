@@ -41,28 +41,28 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      <br>python
+      <br>Python
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
       </a>
-      <br>django
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
+       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
+      <br>Azure
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
-      <br>Webpack
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
