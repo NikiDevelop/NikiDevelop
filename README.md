@@ -57,24 +57,24 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Azure
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />        
+      <br>Rest Api
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+     <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
     </td>
   </tr>
   <tr>
