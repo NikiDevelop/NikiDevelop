@@ -12,7 +12,7 @@ Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"]
 ## Descubre más :link:
 Si estás interesado mira mis otras redes sociales links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikifor-genchev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikifor-genchev/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/NikiDevelop)
 
 
 <!--
