@@ -115,44 +115,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
-      <br>Dotnet
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>SQLite
-    </td>
-              <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://icons8.com/icon/CLa3T2WlbrOP/devops" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
+     
  </tr>
 </table>
 <br><br>
