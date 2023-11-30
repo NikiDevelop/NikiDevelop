@@ -73,7 +73,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
   </tr>
