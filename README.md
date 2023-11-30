@@ -106,8 +106,8 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Rest Api
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
-      <br>Android
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
+      <br>JSON
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode"width="40" height="40" alt="VsCode" />
