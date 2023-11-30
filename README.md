@@ -9,6 +9,7 @@ Decidí dar un gran giro a mi vida y empecé apuntando a una Academia ["Impulso0
 
 Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"](https://www.hackeatufuturo.es/) impartido por una gran escuela como es The Valley con la colaboración de Barrabes.biz y Red.es. Aprendí sobre Big Data, que roles hay, qué técnicas, qué tecnologías hay y a como usarlas. Nos enseñaron 📋
 : **Python, SQL, NoSQL, Cloud, ETL, Power BI, Google Analytics, DataSet, Machine Learning, Análisis de Datos, Google Colab**.<br> Bastante contento lo que aprendí aquí.
+<br>
 
 ## Descubre más 🚀 
 Si estás interesado mira mis otras redes sociales links:
