@@ -14,6 +14,11 @@ Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikiDevelop&theme=gotham&layout=compact"width="47%"/> 
 </p>
 
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/NikiDevelop/count.svg"/>
+  </p>
+
 <p align="center">
 <a href="https://github.com/NikiDevelop?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=NikiDevelop&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@NikiDevelop's github-readme-stats"/></a>
 <a href="https://github.com/NikiDevelop?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=NikiDevelop&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
