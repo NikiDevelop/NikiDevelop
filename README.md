@@ -2,6 +2,10 @@
     <h1>:hugs: ¡Bienvenido a mi Perfil Tech! 💻</h1>
 </div>
 
+[![Visitantes](https://visitor-badge.glitch.me/badge?page_id=NikiDevelop)](https://github.com/NikiDevelop)
+
+
+
 ### ¿Quién soy? ☝️
 Mi Nombre es Nikifor, pero me puedes llamar Niki :wave:, soy de Madrid con nacionalidad Búlgara, llevo viviendo en España desde los 6 años. He estudiado un Grado Superior de Administración y Finanzas, pero después de un tiempo me di cuenta que no era a lo que quería dedicarme toda mi vida, y descubrí este sector tan fascinante de la programación.
 
