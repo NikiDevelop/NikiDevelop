@@ -15,7 +15,7 @@ Si estás interesado mira mis otras redes sociales links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikifor-genchev/) [![Portfolio](https://img.shields.io/badge/Portfolio-ffcd00.svg?style=for-the-badge&logo=Qiskit&logoColor=000000)](https://nikidevelop.github.io/PortafolioDev.github.io/)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/NikiDevelop/) 
 
-
+<br><br>
 ## Lenguajes y Herramientas:
 Al crear mis proyectos he aprendido a utilizar: Modularidad, microservicios, REST APIs, mapeo, patrones de diseño
 MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
