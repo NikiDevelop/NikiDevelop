@@ -98,12 +98,12 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
+         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
+      <br>Docker
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
-      <br>Bootstrap
+         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+      <br>Rest Api
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
