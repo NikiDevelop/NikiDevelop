@@ -110,8 +110,8 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Android
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=vscode"width="40" height="40" alt="VsCode" />
+      <br>VsCode
     </td>
   </tr>
  <tr>
