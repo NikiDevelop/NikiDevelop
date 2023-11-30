@@ -146,18 +146,22 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>SQLite
     </td>
               <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+        <img src="https://icons8.com/icon/CLa3T2WlbrOP/devops" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
  </tr>
 </table>
 <br><br>
 
-<!--
+
+    
+
+
+    
 **NikiDevelop/NikiDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
