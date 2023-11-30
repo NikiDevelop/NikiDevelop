@@ -109,11 +109,6 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
 <br><br>
 
 
-
-<div align="center">
-    <h1>:hugs: Welcome to my profile! 💻</h1>
-</div>
-
 ### Who am I? ☝️
 My name is Nikifor, but you can call me Niki 👋. I'm from Madrid with Bulgarian nationality, and I've been living in Spain since I was 6 years old. I studied a Higher Degree in Administration and Finance, but after a while, I realized it wasn't what I wanted to dedicate my entire life to. That's when I discovered this fascinating field of programming..
 
