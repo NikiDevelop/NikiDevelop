@@ -23,8 +23,8 @@ Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"]
 <a href="https://github.com/NikiDevelop?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=NikiDevelop&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
 </p>
 
-<a href="https://github.com/NikiDevelop/NikiDevelop">
-    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
+<a href="https://profile-counter.glitch.me/NikiDevelop/">
+    <img alt="Visitas Perfil Gitgub" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
 <br><br>
 
 ## Descubre más 🚀 
