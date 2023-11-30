@@ -126,7 +126,7 @@ My name is Nikifor, but you can call me Niki 👋. I'm from Madrid with Bulgaria
 
 I decided to make a big turn in my life and started by enrolling in an academy, ["Impulso06: Programación de Sistemas Informáticos"](https://impulso06.com/). They taught me well, and I learned quite a few things. The technologies I mastered 💻: **Java, Spring Boot, HTML, CSS, JavaScript, Servlet, Apache Tomcat, SQL, and MySql**. I also gained insights into concepts like **MVC, Networks, SOLID, and Web Client-Server**, among others.
 
-After finishing, I had the opportunity to join the ["Hackea tu futuro"](https://www.hackeatufuturo.es/) program, offered by a reputable institution like The Valley in collaboration with Barrabes.biz and Red.es. I learned about Big Data, the different roles involved, techniques, technologies, and how to use them. They taught us 📋: **Python, SQL, NoSQL, Cloud, ETL, Power BI, Google Analytics, DataSet, Machine Learning, Data Analysis, Google Colab**. <br> Quite pleased with what I learned.
+After finishing, I had the opportunity to join the ["Hackea tu futuro"](https://thevalley.es/) program, offered by a reputable institution like The Valley in collaboration with Barrabes.biz and Red.es. I learned about Big Data, the different roles involved, techniques, technologies, and how to use them. They taught us 📋: **Python, SQL, NoSQL, Cloud, ETL, Power BI, Google Analytics, DataSet, Machine Learning, Data Analysis, Google Colab**. <br> Quite pleased with what I learned.
 
     
 
