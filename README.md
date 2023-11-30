@@ -24,7 +24,7 @@ Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"]
 </p>
 
 <a href="https://profile-counter.glitch.me/NikiDevelop/">
-    <img alt="Visitas Perfil Gitgub" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/"/></a>
+    <img alt="Visitas Perfil Gitgub" title="Visitas Perfil GitHub" src="https://contador-visitas-github.vercel.app/NikiDevelop/"/></a>
 <br><br>
 
 ## Descubre más 🚀 
