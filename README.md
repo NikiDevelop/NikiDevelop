@@ -11,10 +11,7 @@ Decidí dar un gran giro a mi vida y empecé apuntándome a una Academia ["Impul
 Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"](https://thevalley.es/) impartido por una gran escuela como es The Valley con la colaboración de Barrabes.biz y Red.es. Aprendí sobre Big Data, que roles hay, qué técnicas, qué tecnologías hay y a como usarlas. Nos enseñaron 📋
 : **Python, SQL, NoSQL, Cloud, ETL, Power BI, Google Analytics, DataSet, Machine Learning, Análisis de Datos, Google Colab**.<br> Bastante contento con lo que aprendí. <br>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikiDevelop&theme=gotham&layout=compact"width="47%"/> 
-</p>
-
+<br><br>
 
 <p align="center">
 <a href="https://github.com/NikiDevelop?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=NikiDevelop&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@NikiDevelop's github-readme-stats"/></a>
