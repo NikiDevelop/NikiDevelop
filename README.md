@@ -85,11 +85,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
-    </td>
-    <td align="center" width="96">
-         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-      <br>React
-    </td>
+    </td>   
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
@@ -101,11 +97,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
-    </td>
-     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
-      <br>SQLite
-    </td>
+    </td>    
     <td align="center"  width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
       <br>Java
