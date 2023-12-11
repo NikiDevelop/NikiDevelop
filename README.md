@@ -83,6 +83,10 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>JSON
     </td>
     <td align="center" width="96">
+        <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_power-bi-pro---icono/im_power-bi-pro---icono.png" width="40" height="40" alt="Power BI" />    
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
       <br>HTML5
     </td>
