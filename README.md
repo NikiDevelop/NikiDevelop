@@ -41,20 +41,20 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Python
     </td>
       <td align="center" width="96">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" />
+       <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
       <br>Pandas
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40" />
       <br>Matplotlib
     </td>
       <td align="center" width="96">
-        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40" />
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="40" height="40" />
       <br>Seaborn
     </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40" />
-      <br>Matplotlib
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+      <br>NumPy
     </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40" />
@@ -73,11 +73,11 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
       <br>Azure
     </td>
+     </tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />        
       <br>Rest Api
-    </td>
-     </tr>
+    </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
       <br>HTML5
@@ -93,8 +93,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
-    </td>
- 
+    </td> 
   <tr>
   <td align="center" width="96">
        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
