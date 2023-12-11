@@ -64,20 +64,24 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
+    </td>   
     <td align="center" width="96">
        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
       <br>Azure
     </td>
      </tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />        
       <br>Rest Api
-    </td>    
+    </td>  
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
+      <br>JSON
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
       <br>HTML5
@@ -113,11 +117,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
     <td align="center"  width="96">
          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
       <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
-      <br>JSON
-    </td>
+    </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode"width="40" height="40" alt="VsCode" />
       <br>VsCode
