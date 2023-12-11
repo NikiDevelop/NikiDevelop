@@ -123,9 +123,6 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>VsCode
     </td>
   </tr>
- <tr>
-     
- </tr>
 </table>
 <br><br>
 
