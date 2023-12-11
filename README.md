@@ -87,7 +87,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Power BI
     </td>
     <td align="center" width="96">
-        <img src="https://jupyter.org/assets/share.png" width="40" height="40" alt="Jupyter" />    
+        <img src="https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/international/jupyter-international/logo.png" width="40" height="40" alt="Jupyter" />    
       <br>Jupyter
     </td>
     <td align="center" width="96">
