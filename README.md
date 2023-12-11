@@ -57,7 +57,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>NumPy
     </td>
       <td align="center" width="96">
-        <img src="https://banner2.cleanpng.com/20180823/ipi/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-5b7f65a43cd484.7557485915350757482492.jpg" alt="Sklearn" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
       <br>Sklearn
     </td>
     <td align="center" width="96">
