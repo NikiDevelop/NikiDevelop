@@ -57,8 +57,8 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>NumPy
     </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40" />
-      <br>Matplotlib
+        <img src="https://banner2.cleanpng.com/20180823/ipi/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-5b7f65a43cd484.7557485915350757482492.jpg" alt="Sklearn" width="40" height="40" />
+      <br>Sklearn
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
