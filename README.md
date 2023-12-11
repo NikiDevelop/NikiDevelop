@@ -87,6 +87,10 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Power BI
     </td>
     <td align="center" width="96">
+        <img src="https://jupyter.org/assets/share.png" width="40" height="40" alt="Jupyter Notebook" />    
+      <br>Jupyter Notebook
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
       <br>HTML5
     </td>
