@@ -82,6 +82,13 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
+        <td align="center" width="96">
+       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    <td align="center" width="96">
+        <img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
       <br>SQLite
