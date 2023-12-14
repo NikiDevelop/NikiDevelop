@@ -65,9 +65,9 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       </a>
-      <br>Seaborn
+      <br>PostgreSQL
     </td>      
      </tr>
      <td align="center" width="96">
@@ -79,16 +79,16 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Matplotlib
     </td>  
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
-      <br>JSON
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="40" height="40" />
+      <br>Seaborn
     </td>
     <td align="center" width="96">
         <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_power-bi-pro---icono/im_power-bi-pro---icono.png" width="40" height="40" alt="Power BI" />    
       <br>Power BI
     </td>
     <td align="center" width="96">
-        <img src="https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/international/jupyter-international/logo.png" width="40" height="40" alt="Jupyter" />    
-      <br>Jupyter
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />    
+      <br>NumPy
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
@@ -104,11 +104,11 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
     </td> 
   <tr>
     <td align="center" width="96">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-    <br>NumPy  
+       <img src="https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/international/jupyter-international/logo.png" width="40" height="40" alt="Jupyter" />
+    <br>Jupyter  
   <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
+       <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
+      <br>JSON
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="40" height="40" />
       <br>REST API
