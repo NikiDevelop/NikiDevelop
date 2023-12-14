@@ -37,37 +37,41 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
+    </td>
+      <td align="center" width="96">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
+      <br>Azure
+    </td> 
+   <td align="center" width="96">
+        <img src="https://www.rrhhdigital.com/wp-content/uploads/userfiles/devops-tecnologia-empleo.jpg" alt="DevOps" width="50" height="50" />
+      <br>DevOps
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
+      <br>Docker
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+      <br>Django
     </td>
       <td align="center" width="96">
        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
       <br>Pandas
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40" />
+      <td align="center" width="96">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40" />
       <br>Matplotlib
     </td>
-      <td align="center" width="96">
-        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="40" height="40" />
-      <br>Seaborn
-    </td>
-      <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-      <br>NumPy
-    </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
-      <br>Sklearn
-    </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="40" height="40" />
       </a>
-      <br>Django
+      <br>Seaborn
     </td>   
     <td align="center" width="96">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
-      <br>Azure
+       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+      <br>NumPy
     </td>
      </tr>
      <td align="center" width="96">
@@ -123,8 +127,8 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>Bootstrap
     </td>
     <td align="center"  width="96">
-         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
-      <br>Docker
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
+      <br>Sklearn
     </td>    
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode"width="40" height="40" alt="VsCode" />
