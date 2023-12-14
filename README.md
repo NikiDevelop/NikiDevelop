@@ -68,11 +68,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
         <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" width="40" height="40" />
       </a>
       <br>Seaborn
-    </td>   
-    <td align="center" width="96">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-      <br>NumPy
-    </td>
+    </td>      
      </tr>
      <td align="center" width="96">
        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
@@ -107,6 +103,9 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
       <br>JavaScript
     </td> 
   <tr>
+    <td align="center" width="96">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    <br>NumPy  
   <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
