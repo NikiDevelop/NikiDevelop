@@ -52,6 +52,10 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
       <br>Docker
     </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+      <br>Kubernetes
+    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
       <br>Django
