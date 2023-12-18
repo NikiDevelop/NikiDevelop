@@ -40,41 +40,7 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
       <br>Python
     </td>
-      <td align="center" width="96">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
-      <br>Azure
-    </td> 
-   <td align="center" width="96">
-        <img src="https://www.rrhhdigital.com/wp-content/uploads/userfiles/devops-tecnologia-empleo.jpg" alt="DevOps" width="50" height="50" />
-      <br>DevOps
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
-      <br>Docker
-    </td>
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-      <br>Kubernetes
-    </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
-      <br>Django
-    </td>
-      <td align="center" width="96">
-       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-      <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>      
-     </tr>
-     <td align="center" width="96">
        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
       <br>Pandas
     </td>
@@ -94,29 +60,57 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />    
       <br>NumPy
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
+      <td align="center" width="96">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>
+      <br>Azure
     </td>   
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td> 
-  <tr>
-    <td align="center" width="96">
+      <td align="center" width="96">
+       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>      
+     </tr>
+      <td align="center" width="96">
        <img src="https://petljamediastorage.blob.core.windows.net/root/Media/Default/Kursevi/international/jupyter-international/logo.png" width="40" height="40" alt="Jupyter" />
     <br>Jupyter  
-  <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
-      <br>JSON
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
+      <br>Docker
+    </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+      <br>Kubernetes
+     </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />
+      <br>Django
+    </td>   
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="40" height="40" />
       <br>REST API
-    </td>    
+    </td>       
+     <td align="center"  width="96">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
+      <br>Sklearn
+     </td> 
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
+      <br>GitHub
+    </td>       
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>      
+  <tr>  
+      <td align="center" width="96">
+         <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="json" />
+        <br>JSON
+      </td>
+       <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />    
+        <br>HTML5
+      </td>    
     <td align="center"  width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
       <br>Java
@@ -129,10 +123,14 @@ MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
          <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="40" height="40" />
       <br>Bootstrap
     </td>
-    <td align="center"  width="96">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
-      <br>Sklearn
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
     </td>    
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode"width="40" height="40" alt="VsCode" />
       <br>VsCode
