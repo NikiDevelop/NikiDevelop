@@ -27,8 +27,11 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 
 <br><br>
 ## Lenguajes y Herramientas:
-Al crear mis proyectos he aprendido a utilizar: Modularidad, microservicios, REST APIs, mapeo, patrones de diseño
-MVC, arquitectura, Django Rest Framework, Responsive, deploy, entre otras.
+• Extraer información <br>
+• Limpieza de Datos <br> 
+• Análisis de Datos (EDA) <br>
+• Visualización delos Datos <br> 
+• Manipulación de Datos 
 
 <br>
 
