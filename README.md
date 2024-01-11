@@ -9,7 +9,7 @@ Mi Nombre es Nikifor, pero me puedes llamar Niki :wave:, soy de Madrid con nacio
 Decidí dar un gran giro a mi vida y empecé apuntándome a una Academia ["Impulso06: Programación de Sistemas Informáticos"](https://impulso06.com/). Me enseñaron bien y aprendí bastantes cosas. Las tecnologías que aprendí 💻: **Java, Spring Boot, HTML, CSS, JavaScript, Servlet, Apache Tomcat, SQL y MySql**. También me enseñaron los conceptos: **MVC, Redes, SOLID y Web Cliente-Servidor**, entre otros.
 
 Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"](https://thevalley.es/) impartido por una gran escuela como es "The Valley" con la colaboración de Barrabes.biz y Red.es. Aprendí sobre "Big Data", que roles hay, qué técnicas, qué tecnologías hay y a como usarlas. Nos enseñaron 📋
-: **Python, SQL, NoSQL, Cloud, ETL, Power BI, Google Analytics, DataSet, Machine Learning, Análisis de Datos, Google Colab, Tableau**.<br> Bastante contento con lo que aprendí. <br>
+: **Python, SQL, NoSQL, Cloud, ETL, Análisis de Datos, Power BI, Google Analytics, DataSet, Machine Learning, Google Colab, Tableau**.<br> Bastante contento con lo que aprendí. <br>
 
 <br><br>
 
