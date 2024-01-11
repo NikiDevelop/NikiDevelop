@@ -30,7 +30,7 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 • Extraer información <br>
 • Limpieza de Datos <br> 
 • Análisis de Datos (EDA) <br>
-• Visualización delos Datos <br> 
+• Visualización de los Datos <br> 
 • Manipulación de Datos 
 
 <br>
