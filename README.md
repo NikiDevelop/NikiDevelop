@@ -31,7 +31,9 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 • Limpieza de Datos <br> 
 • Análisis de Datos (EDA) <br>
 • Visualización de los Datos <br> 
-• Manipulación de Datos 
+• Manipulación de Datos <br>
+• Storytelling
+• Query
 
 <br>
 
