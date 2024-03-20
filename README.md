@@ -68,8 +68,16 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
               <td align="center" width="96">
                   <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_power-bi-pro---icono/im_power-bi-pro---icono.png" width="40" height="40" alt="Power BI" />    
                 <br>Power BI
-              </td>                                                
+              </td>
+                 <td align="center"  width="96">
+                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
+                <br>Scikit learn
+               </td> 
                </tr>
+               <td align="center" width="96">
+                  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="40" />    
+                <br>Django
+              </td>        
               <td align="center" width="96">
                   <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="NumPy" width="40" height="40" />    
                 <br>NumPy
@@ -86,11 +94,7 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
           <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
         </a>
         <br>PostgreSQL
-      </td>                        
-               <td align="center"  width="96">
-                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Sklearn" width="40" height="40" />
-                <br>Scikit learn
-               </td> 
+      </td>                                     
                <td align="center" width="96">
                 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
                <br>Git
@@ -98,7 +102,11 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
                <td align="center" width="96">
                   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
                 <br>GitHub
-              </td>                                 
+              </td>
+              <td align="center" width="96">
+                  <img src="https://techstack-generator.vercel.app/js-icon.svg"" alt="JavaScript" width="40" height="40" />
+                <br>JavaScript
+              </td>           
             <tr>
               <td align="center" width="96">
                 <img src="https://swimburger.net/media/ppnn3pcl/azure.png" title="azure" alt="azure" width="40" height="40"/>
@@ -123,7 +131,11 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
               <td align="center" width="96">
                    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
                 <br>CSS
-              </td>             
+              </td>
+                 <td align="center" width="96">
+                   <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+                <br>Bootstrap
+              </td>      
               <td align="center" width="96">
                   <img src="https://skillicons.dev/icons?i=vscode"width="40" height="40" alt="VsCode" />
                 <br>VsCode
