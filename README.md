@@ -4,7 +4,7 @@
 
 
 ### ¿Quién soy? ☝️
-### Hola, soy Niki **Analista de Datos** 📊
+### Hola, soy Niki **Analista de Datos**! 📊
 Mi labor como analista de datos es proporcionar soluciones a la empresa mediante la interpretación y la lectura de los datos obtenidos, identificando patrones y tendencias. Realizando la recolección de datos, la **limpieza** de datos, el modelado de los datos, **analizar** los datos, **visualización** de datos y preparación de **informes** que resuman los hallazgos y recomendaciones para la compañía. 
 
 <br>
@@ -134,7 +134,7 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 
 
 ### Who am I? ☝️
-### Hi, i'm Niki Data Analyst
+### Hi, i'm Niki Data Analyst!📊
 My role as a data analyst is to provide solutions to the company by interpreting and reading the data obtained, identifying patterns and trends. This involves data collection, data cleaning, data modeling, data analysis, data visualization, and preparing reports that summarize the findings and recommendations for the company.
     
 
