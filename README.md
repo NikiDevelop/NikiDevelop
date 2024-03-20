@@ -32,6 +32,7 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 • Manipulación de Datos <br>
 • Storytelling <br>
 • Query
+• Preparación de Informes
 
 <br>
 
