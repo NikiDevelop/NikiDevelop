@@ -24,7 +24,7 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikifor-genchev/) [![Portfolio](https://img.shields.io/badge/Portfolio-ffcd00.svg?style=for-the-badge&logo=Qiskit&logoColor=000000)](https://nikidevelop.github.io/Nikifor.DataAnalyst.github.io/)  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/NikiDevelop/) ![Visitas](https://komarev.com/ghpvc/?username=NikiDevelopb&style=for-the-badge)
 
 <br><br>
-## Lenguajes y Herramientas:
+## Tecnologías y Herramientas:
 • Extraer información <br>
 • Limpieza de Datos <br> 
 • Análisis de Datos (EDA) <br>
