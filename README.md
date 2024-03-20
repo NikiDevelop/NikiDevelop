@@ -1,15 +1,13 @@
 <div align="center">
-    <h1>:hugs: ¡Bienvenido a mi Perfil Tech! 💻</h1>
+    <h1> ¡Bienvenido a mi Perfil Tech! 💻</h1>
 </div>
 
 
 ### ¿Quién soy? ☝️
-Mi Nombre es Nikifor, pero me puedes llamar Niki :wave:, soy de Madrid con nacionalidad Búlgara, llevo viviendo en España desde los 6 años. He estudiado un Grado Superior de Administración y Finanzas, pero después de un tiempo me di cuenta que no era a lo que quería dedicarme toda mi vida, y descubrí este sector tan fascinante de la programación.
+### Hola, soy Niki **Analista de Datos** 📊
+Mi labor como analista de datos es proporcionar soluciones a la empresa mediante la interpretación y la lectura de los datos obtenidos, identificando patrones y tendencias. Realizando la recolección de datos, la **limpieza** de datos, el modelado de los datos, **analizar** los datos, **visualización** de datos y preparación de **informes** que resuman los hallazgos y recomendaciones para la compañía. 
 
-Decidí dar un gran giro a mi vida y empecé apuntándome a una Academia ["Impulso06: Programación de Sistemas Informáticos"](https://impulso06.com/). Me enseñaron bien y aprendí bastantes cosas. Las tecnologías que aprendí 💻: **Java, Spring Boot, HTML, CSS, JavaScript, Servlet, Apache Tomcat, SQL y MySql**. También me enseñaron los conceptos: **MVC, Redes, SOLID y Web Cliente-Servidor**, entre otros.
-
-Al terminar tuve la oportunidad de entrar en el programa de ["Hackea tu futuro"](https://thevalley.es/) impartido por una gran escuela como es "The Valley" con la colaboración de Barrabes.biz y Red.es. Aprendí sobre "Big Data", que roles hay, qué técnicas, qué tecnologías hay y a como usarlas. Nos enseñaron 📋
-: **Python, SQL, NoSQL, Cloud, ETL, Análisis de Datos, Power BI, Tableau, Google Analytics, DataSet, Machine Learning, Google Colab**.<br> Bastante contento con lo que aprendí. <br>
+<br>
 
 <br><br>
 
