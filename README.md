@@ -135,7 +135,7 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
 
 ### Who am I? ☝️
 ### Hi, i'm Niki Data Analyst!📊
-My role as a data analyst is to provide solutions to the company by interpreting and reading the data obtained, identifying patterns and trends. This involves data collection, data cleaning, data modeling, data analysis, data visualization, and preparing reports that summarize the findings and recommendations for the company.
+My role as a data analyst is to provide solutions to the company by interpreting and reading the data obtained, identifying patterns and trends. This involves data collection, data **cleaning**, data modeling, data **analysis**, data **visualization**, and preparing **reports** that summarize the findings and recommendations for the company.
     
 
 
