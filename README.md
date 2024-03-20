@@ -43,6 +43,11 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
                   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
                 <br>Python
               </td>
+                <td align="center" width="96">
+                <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png"
+                  title="azure" alt="SQL" width="40" height="40" />
+                <br>SQL
+              </td>
                  <td align="center" width="96">
                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="40" height="40" alt="Pandas" />
                 <br>Pandas
@@ -62,16 +67,12 @@ Si estás interesado mira mis otras redes sociales y mis proyectos:
               <td align="center" width="96">
                   <img src="https://www.uc3m.es/sdic/media/sdic/img/mediana/original/im_power-bi-pro---icono/im_power-bi-pro---icono.png" width="40" height="40" alt="Power BI" />    
                 <br>Power BI
-              </td>
+              </td>                                                
+               </tr>
               <td align="center" width="96">
                   <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="NumPy" width="40" height="40" />    
                 <br>NumPy
-              </td>                                         
-               </tr>
-               <td align="center" width="96">
-                <img src="https://banner2.cleanpng.com/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" title="azure" alt="SQL" width="40" height="40"/>
-               <br>SQL
-             </td>               
+              </td>               
              <td align="center" width="96">
               <img src="https://static.vecteezy.com/system/resources/previews/017/396/806/original/microsoft-excel-mobile-apps-logo-free-png.png" width="40" height="40" alt="Excel" />             
             <br>Excel
